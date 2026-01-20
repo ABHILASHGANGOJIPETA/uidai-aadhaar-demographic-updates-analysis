@@ -86,5 +86,4 @@ The project includes:
 
 ---
 
-## 📁 Repository Structure
 
