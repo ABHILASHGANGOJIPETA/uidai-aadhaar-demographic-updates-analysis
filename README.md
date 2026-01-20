@@ -86,4 +86,15 @@ The project includes:
 
 ---
 
+## 📜 Disclaimer
+
+This project is developed strictly for analytical and research purposes as part of the UIDAI Data Hackathon 2026.  
+All analysis is based on aggregated data and does not involve individual-level identification.
+
+---
+
+## 👤 Author
+
+**Gangojipeta Abhilash**  
+Team Lead – UIDAI Data Hackathon 2026
 
